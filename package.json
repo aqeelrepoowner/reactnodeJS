@@ -1,0 +1,26 @@
+{
+  "name": "node-authentication",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.0.0",
+    "buffer": "^5.0.6",
+    "cookie-parser": "~1.0.0",
+    "ejs": "~0.8.5",
+    "express": "~4.0.0",
+    "fs": "0.0.1-security",
+    "griddle-react": "^0.1.19",
+    "mongoose": "^4.9.6",
+    "node-jsx": "^0.2.1",
+    "path": "*",
+    "react": "^0.12.2",
+    "react-router": "^4.1.1"
+  },
+  "devDependencies": {
+    "browserify": "~3.20.0",
+    "gulp": "~3.8.9",
+    "gulp-browserify": "~0.5.0",
+    "gulp-concat": "~2.4.1",
+    "node-jsx": "~0.2.0",
+    "reactify": "0.15.2"
+  }
+}
